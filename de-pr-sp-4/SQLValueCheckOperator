@@ -1,0 +1,6 @@
+SQLValueCheckOperator(
+    task_id="имя задачи", 
+    sql="текст SQL-запроса", 
+    pass_value=пороговое значение, 
+    threshold=значение в процентах, допустимое отклонение.  
+)
